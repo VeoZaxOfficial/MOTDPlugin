@@ -1,0 +1,9 @@
+name: MOTDPlugin
+main: MOTD\Main
+version: 1.0.0
+api: [1.8.0, 2.0.0]
+author: VeoZax
+load: STARTUP
+link: https://github.com/VeoZaxOfficial
+discord: https://discord.gg/dCzgPYam2J
+description: "A plugin that gives cool Heading to PocketMine-MP servers"
